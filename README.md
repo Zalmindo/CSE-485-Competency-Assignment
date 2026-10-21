@@ -8,7 +8,7 @@ GET, POST, PUT, PATCH and DELETE, and every response (errors included) is JSON.
 Needs Python 3.10+.
 
 ```bash
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 ```
 
 ## Running it
