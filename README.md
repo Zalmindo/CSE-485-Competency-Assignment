@@ -24,3 +24,6 @@ Run the tests with:
 ```bash
 pytest -v
 ```
+The test results should be the follwing:
+
+<img width="1644" height="416" alt="image" src="https://github.com/user-attachments/assets/f65a1fdc-8929-400c-b1db-b3566e3b877c" />
